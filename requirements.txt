@@ -1,0 +1,12 @@
+Flask
+numpy
+pickleshare
+pandas
+scikit-learn
+requests
+scipy
+statsmodels
+sklearn
+matplotlib
+matplotlib-inline
+seaborn
